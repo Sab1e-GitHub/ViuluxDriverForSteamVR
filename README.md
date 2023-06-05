@@ -1,7 +1,7 @@
 GitHub下不了可以用蓝奏云:  https://wwly.lanzoup.com/i3mhw0yd0txa
 
 简介：
-该项目是GitHub项目 Viulux-V9-Driver-for-SteamVR 的修复版本，原驱动作者已经停止维护，且驱动无法正常使用，本人对其驱动进行了维护并开源发布。
+该项目是GitHub项目 Viulux-V9-Driver-for-SteamVR 的修复版本，原驱动作者已经停止维护，且驱动无法正常使用（无法正常驱动NOLO手柄），本人对其驱动进行了维护并开源发布。
 目前支持驱动Viulux VR屏幕（由于是基于Relativty，因此理论上支持驱动任何屏幕）和NOLO CV1 PRO手柄，手柄可用的功能继承原项目“Viulux-V9-Driver-for-SteamVR”。
 
 原项目地址：
